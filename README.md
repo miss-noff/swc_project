@@ -1,6 +1,12 @@
-# swc_project
+# Software Carpentry Project
+
+Example Repository for Software Carpentry 
+
+![SWC_Image](https://potterzot.com/2019-09-25-unm/assets/img/swc-icon-blue.svg)
+
 
 Work we've done to set up this repository.
+
 
 ## Install
 
@@ -13,4 +19,3 @@ To use this repository, install it and then add it to 'R' with:
 ```{r}
 library(ggplot2)
 ```
-example repository for software carpentry 
