@@ -1,11 +1,11 @@
 # Software Carpentry Project
 
-<strong>Example Repository for Software Carpentry</strong> 
+<b>Example Repository for Software Carpentry</b> 
 
 ![SWC_Image](https://potterzot.com/2019-09-25-unm/assets/img/swc-icon-blue.svg)
 
 
-Work we've done to set up this repository.
+<i>Work we've done to set up this repository.</i>
 
 
 ## Install
